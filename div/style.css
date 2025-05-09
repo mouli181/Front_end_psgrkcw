@@ -1,0 +1,30 @@
+.main{
+    color: rgb(253, 252, 253);
+    margin: 30px;
+    padding: 20px;
+    text-align: center;
+    width: 600px;
+    background-image: url(image.jpg);
+    background-repeat: no-repeat;
+}
+
+.container{
+    display: flex;
+    
+}
+.nav{
+    background-color: rgb(232, 211, 169);
+    display: flex;
+    justify-content: space-evenly;
+}
+.ul-nav-1{
+    list-style-type: none;
+    display: flex;
+}
+.ul-nav-2{
+    list-style-type: none;
+    display: flex;
+}
+li{
+    padding: 10px;
+}
